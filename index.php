@@ -187,7 +187,7 @@
 				
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 						<span class="img">
-							<img src="yoga.jpg" alt="">
+							<img src="yoga1.jpg" alt="">
 						</span>
 									 <!-- Trigger the modal with a button -->
 							<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">YOGA</button>
@@ -347,6 +347,6 @@ Jogging is also distinguished from running by having a wider lateral spacing of 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="assets/js/template.js"></script>
+<script src="template.js"></script>
 </body>
 </html>
