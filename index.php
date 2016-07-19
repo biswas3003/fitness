@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Code-pandora</title>
 
-	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
+	<link rel="shortcut icon" href="gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -13,9 +13,9 @@
 	<!-- Fonts -->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
-	<link rel="stylesheet" href="assets/css/styles.css">
+	<link rel="stylesheet" href="styles.css">
 
-	<!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
+	<!--[if lt IE 9]> <script src="html5shiv.js"></script> <![endif]-->
 	
 	<script>
 				function myAgeValidation() {
@@ -132,7 +132,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="assets/images/guy.jpg" alt="">
+			<img class="img-circle" src="guy.jpg" alt="">
 			<span class="title" style="color:brown">Sourav Biswas</span>
 		</h1>
 	</div>
@@ -187,7 +187,7 @@
 				
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 						<span class="img">
-							<img src="assets/images/yoga.jpg" alt="">
+							<img src="yoga.jpg" alt="">
 						</span>
 									 <!-- Trigger the modal with a button -->
 							<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">YOGA</button>
@@ -215,7 +215,7 @@
 					
 						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 						<span class="img">
-							<img src="assets/images/gym.jpg" alt="">
+							<img src="gym.jpg" alt="">
 						</span>
 									 <!-- Trigger the modal with a button -->
 							<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Gymnasium</button>
@@ -243,7 +243,7 @@
 					
 											<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 						<span class="img">
-							<img src="assets/images/jog.jpg" alt="">
+							<img src="jog.jpg" alt="">
 						</span>
 									 <!-- Trigger the modal with a button -->
 							<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Jogging</button>
@@ -286,7 +286,7 @@ Jogging is also distinguished from running by having a wider lateral spacing of 
 			<h2 class="section-title"><span>Thank's for visiting</span></h2>
 			<div class="col-lg-12">
 				<p>
-					<img src="assets/images/thanks.png" alt="">
+					<img src="thanks.png" alt="">
 				</p>
 			</div>
 		</div> <!-- /section -->
